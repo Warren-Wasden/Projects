@@ -1,3 +1,1 @@
-# Projects
-
-This repository is a collection of the projects that I have been working on. Some have been completed with a team, and others were done solo.
+These files are a project created in java that is ConnectX. Essentially connect 4 but can be variable in size as well as amount in a row to win. You can choose different implementations such as a 2D array implementation for speed or a map implementation for memory efficiency. There can also be more than just 2 players for each game. Along with this implementation are test cases that were made to test the project for correctness. This was a group project with myself, and 2 other group members. We each worked on every part of the project.
