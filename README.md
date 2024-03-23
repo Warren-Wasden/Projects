@@ -1,5 +1,1 @@
-# Projects
-
-This repository is a collection of the projects that I have been working on. Some have been completed with a team, and others were done solo.
-
-All of the projects will be under the branches tab and each branch will contain a project.
+This project uses 2 input files using python that pack up metadata of a file, encode the file, send the file via multiple packets across a network, recieve the file, unpack the metadata and the contents of the packets. Receive the hash info for the client and sever, send the server hash back to the client. Compare the hashes and if correct, file transfer was complete. The destination and source port for this project was hardcoded as it was a school project.
