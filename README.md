@@ -1,3 +1,1 @@
-# Projects
-
-This repository is a collection of the projects that I have been working on. Some have been completed with a team, and others were done solo.
+The goal of this project was to receive the input of a date and a string from the command line, require that the date be a future date from whatever the current date is. Then pass the string via an "execl" call to get the SHA512 hash of a string. We then use a thread to pass the date to a thread function and calculate the remaining days from the current date to the future date. The goal of this project was to practice working with processes and threads.
